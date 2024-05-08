@@ -1,3 +1,5 @@
+/* Não consegui fazer todas as funcionalidades rodarem porém tentei criar uma lógica para cada uma delas em suas respectivas classes */
+
 import java.util.ArrayList;
 import java.util.List;
 
